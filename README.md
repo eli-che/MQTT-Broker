@@ -1,6 +1,6 @@
 # MQTT-Broker
  
-#Ett Internet protocol baserat på MQTT dokumentation byggt från grunden och demonstrerat som en smart väderstation.
+#Ett Internet protokoll baserat på MQTT dokumentation byggt från grunden och demonstrerat som en smart väderstation.
 
 Syftet med 'Smart Väderstation med MQTT' är att skapa ett proof of concfept för en, tillförlitlig och interaktiv väderstation som använder MQTT-protokollet för att samla, överföra och visa väderdata i realtid.
 Projektet består av flera nyckelkomponenter: sensorer som simulerar in väderdata, en MQTT-broker som fungerar som ett kommunikationscentrum, och en central enhet som visar data för användarna. Dessa delar arbetar ihop för att ge en omfattande översikt av det aktuella väderförhållandet.
